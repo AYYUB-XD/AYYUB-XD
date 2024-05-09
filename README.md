@@ -16,8 +16,6 @@
 
 ![20200808_160757](https://raw.githubusercontent.com/AYYUB-XD/AYYUB-XD/main/Screenshot_20240509-082742~2.png)
 
-![20200808_160757](https://raw.githubusercontent.com/AYYUB-XD/AYYUB-XD/main/b16eeed367d1d734727c2f297815cc4c~2.jpg)
-
 ![20200808_160757](https://raw.githubusercontent.com/AYYUB-XD/AYYUB-XD/main/f5c61760850b5df44e009cc4dd2e72ba.jpg)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
@@ -49,5 +47,3 @@
 <h3 align="center"> THANK YOU</h3>
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
-
-
